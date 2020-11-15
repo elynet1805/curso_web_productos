@@ -1,0 +1,35 @@
+@charset "utf-8";
+body {
+	background-color: #FFFFFF;
+	color: #686868;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 26px;
+}
+	#centro{
+		width: 900px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 150px;
+	}
+img {
+	margin: 10px;
+	width: 300px;
+	height: 300px;
+}
+
+td {
+	text-align: center;
+}
+
+a {
+	color: #FF5F00;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FF5F00
+}
+a:visited {
+	color: #686868
+}
